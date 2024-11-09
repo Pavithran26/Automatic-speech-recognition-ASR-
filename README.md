@@ -12,7 +12,7 @@ pip install -r requirmentSteps.txt
 #In final give a line 
 
 
-python asr_transcriber.txt
+python asr_transcriber.py
 
 
 #if needed than download other waw file replace into "sample.waw" to the user ".waw" files. 
