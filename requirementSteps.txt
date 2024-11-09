@@ -1,0 +1,13 @@
+#first need to create virtuall environment to the project
+python -m venv asr_env
+
+#activate the virtual environment
+source asr_env/bin/activate
+
+#install the required packages
+pip install torch transformers soundfile librosa
+
+#run file 
+python asr_transcriber.py
+
+
