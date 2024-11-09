@@ -8,6 +8,3 @@ source asr_env/bin/activate
 pip install torch transformers soundfile librosa
 
 #run file 
-python asr_transcriber.py
-
-
