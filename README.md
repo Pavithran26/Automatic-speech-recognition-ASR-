@@ -1,8 +1,9 @@
- Automatic-speech-recognition-ASR-
+ Automatic-speech-recognition-ASR
+
 The Automatic Speech Recognition (ASR) project aims to develop a deep learning-based system that accurately converts spoken language into text, enhancing applications like voice assistants, transcription services, and customer support automation.
 
 
-# In Terminal open to the program directory enter the command to install packages
+#In Terminal open a file directory and enter the following command
 
 
 pip install -r requirmentSteps.txt
